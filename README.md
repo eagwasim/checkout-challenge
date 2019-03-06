@@ -39,6 +39,13 @@ The project requires no external dependencies. Just a Runtime
 ```
 Python 3.7
 ```
+## Running the console application
+
+You can run the console application using
+
+```
+python3.7 main.py
+```
 ## Running the tests
 
 Run the test cases using 
