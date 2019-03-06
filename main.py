@@ -23,6 +23,7 @@ def start_program():
         print(inventory_item.name, " | ", inventory_item.code, " | ", inventory_item.unit_price)
 
     print("Please add to cart using the inventory code. eg. VOUCHER, TSHIRT, VOUCHER, VOUCHER, MUG, TSHIRT, TSHIRT")
+    print("Enter EXIT to stop the application")
 
     raw_arguments = input("Enter Items: ")
 
